@@ -1,0 +1,13 @@
+# Python 編譯暫存
+__pycache__/
+*.pyc
+
+# BMI 資料檔
+bmi_data.csv
+
+# VSCode 設定（可選）
+.vscode/
+
+# 虛擬環境（可選）
+venv/
+.env
